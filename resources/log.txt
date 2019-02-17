@@ -1,0 +1,4 @@
+17/02/2019 00:34:50 - site: https://www.alura.com.br - status: 200
+17/02/2019 00:34:51 - site: https://random-status-code.herokuapp.com - status: 403
+17/02/2019 00:34:51 - site: https://www.caelum.com.br - status: 200
+17/02/2019 00:34:52 - site: https://www.casadocodigo.com.br - status: 200
